@@ -1,0 +1,13 @@
+/*
+ Theme Name: Anis Blog Child
+ Theme URI: https://example.com
+ Description: Child theme of Twenty Twenty-Five for Assignment 2
+ Author: Anis Malek
+ Template: twentytwentyfive
+ Version: 1.0.0
+ Text Domain: anisblog-child
+*/
+
+body {
+  font-family: system-ui, sans-serif;
+}

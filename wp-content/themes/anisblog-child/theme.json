@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "title": "Anis Blog Child",
+  "settings": {
+    "color": {
+      "palette": [
+        { "slug": "brand", "name": "Brand", "color": "#0A7CFF" },
+        { "slug": "accent", "name": "Accent", "color": "#FF6A00" },
+        { "slug": "ink", "name": "Ink", "color": "#141414" },
+        { "slug": "paper", "name": "Paper", "color": "#FFFFFF" }
+      ]
+    }
+  }
+}
