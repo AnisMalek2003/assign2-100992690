@@ -1,0 +1,21 @@
+# Ignore WordPress core, uploads, caches
+/wp-admin/
+/wp-includes/
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/plugins/*
+
+# Keep mu-plugins if you ever add any
+!/wp-content/mu-plugins/
+
+# Keep only your child theme
+/wp-content/themes/*
+!/wp-content/themes/*-child/
+
+# Node/Composer/OS stuff
+node_modules/
+vendor/
+*.log
+.DS_Store
+Thumbs.db
